@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#40243f"/>
+      <stop offset="1" stop-color="#140e19"/>
+    </linearGradient>
+    <linearGradient id="cake" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd9a1"/>
+      <stop offset="1" stop-color="#ff789f"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M86 146 99 114l14 32 32 14-32 13-14 33-13-33-32-13zM398 111l9-23 10 23 23 10-23 9-10 24-9-24-24-9z" fill="#f9d88c"/>
+  <path d="M236 110h40v106h-40z" rx="12" fill="#fff3e9"/>
+  <path d="M256 69c-36 45-27 66 0 66s36-21 0-66" fill="#ffbc55"/>
+  <path d="M256 87c-15 22-10 32 0 32s15-10 0-32" fill="#fff4bd"/>
+  <path d="M126 260c0-22 18-40 40-40h180c22 0 40 18 40 40v138H126z" fill="url(#cake)"/>
+  <path d="M126 260c0-22 18-40 40-40h180c22 0 40 18 40 40v19H126z" fill="#fff3e9"/>
+  <path d="M126 310h260M126 355h260" stroke="#fff3e9" stroke-opacity=".8" stroke-width="12"/>
+  <path d="M178 289h156" stroke="#fff8f4" stroke-linecap="round" stroke-width="10" stroke-dasharray="2 24"/>
+  <path d="M189 334h134" stroke="#fff8f4" stroke-linecap="round" stroke-width="10" stroke-dasharray="2 24"/>
+  <path d="M232 433c-23-22-56-44-56-72 0-31 39-43 56-12 17-31 56-19 56 12 0 28-33 50-56 72" fill="#ffa9c5"/>
+</svg>

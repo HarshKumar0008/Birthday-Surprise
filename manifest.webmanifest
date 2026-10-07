@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "A Little Birthday Magic for Supriya",
+  "short_name": "Supriya's Birthday",
+  "description": "A birthday surprise with candles, balloons, cake, and a song.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#140e19",
+  "theme_color": "#140e19",
+  "icons": [
+    {
+      "src": "./birthday-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
